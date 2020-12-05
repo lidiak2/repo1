@@ -1,3 +1,3 @@
 aaa
 linia z kopii
-glowny
+glowny + kopia
