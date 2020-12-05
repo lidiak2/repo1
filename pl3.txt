@@ -1,3 +1,5 @@
 aaa
+linia z kopii
+glowny + kopia
 kopia zmienia na masterze
 kolejna zmiana - kopia
